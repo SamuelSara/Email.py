@@ -1,0 +1,6 @@
+{
+    "isort.interpreter": [
+        "openyxl1"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
